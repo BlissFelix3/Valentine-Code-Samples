@@ -1,0 +1,21 @@
+body {
+  background-color: pink;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+}
